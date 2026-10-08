@@ -61,11 +61,11 @@
 ### 3. 기타 사항
 * 참석자 단체 사진 촬영 완료
 * 다음 회의는 멘토 연락 수신 후 세부 요구사항 구체화 예정
-
+![0910 회의 사진](./images/0910.jpg)
 </details>
 
 <details>
-<summary><b>📂 0920 회의록</b></summary>
+<summary><b>📂 0917 회의록</b></summary>
 
 <br>
 
@@ -111,8 +111,8 @@
   - [ ] 지호: 에타/공지사항 크롤러 작성 및 ChromaDB 파이프라인 구축
   - [ ] 혁진: 10만 개 학습 데이터 생성 파이프라인 & LLM-as-a-Judge 구축
   - [ ] 성욱: A100 서버 파인튜닝 환경 세팅 및 Llama 8B LoRA / QLoRA 실험
-  - [ ] 탁: Next.js / FastAPI 프로젝트 초기 세팅, Dockerfile 작성 및 Modal 배포 파이프라인 준비
-- [ ] **멘토 미팅 일정:** 2주마다 일요일 진행
+  - [ ] 탁: spring boot / react / FastAPI 프로젝트 초기 세팅, Dockerfile 작성 및 Modal 배포 파이프라인 준비, github actions CI/CD 구축
+- [ ] **멘토 미팅 일정:** 2주마다 일요일 저녁 이후 진행
 - [ ] **발표자 선정:** LMS 발표 공지 확인 후 순차적으로 돌아가며 진행
 
 ---

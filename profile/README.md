@@ -122,6 +122,8 @@
 * 차기 멘토 미팅 준비 및 파트별 개발 진행 현황 공유 예정
 
 </details>
+
+<details>
 <summary><b>📂 0923 회의록</b></summary>
 
 <br>

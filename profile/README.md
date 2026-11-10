@@ -539,5 +539,7 @@
 
 ### 3. 기타 사항
 * `main` 브랜치의 일관성 유지를 위해 사전 리뷰 없는 커밋/머지 엄격 금지
-
+<p align="center">
+  <img src="../images/1110.jpeg" width="500" style="border-radius: 8px;" title="1110회의 사진">
+</p>
 </details>

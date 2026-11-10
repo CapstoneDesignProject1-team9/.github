@@ -9,7 +9,7 @@
 | <img src="https://github.com/wooki0704.png" width="60" height="60" style="border-radius: 50%;"> | **wooki0704** | 진성욱 | 컴퓨터학부 심컴 | [@wooki0704](https://github.com/wooki0704) | 파인튜닝 (LoRA), AI위밋 발표, 학회 포스터 발표 |
 | <img src="https://github.com/parkhj0206.png" width="60" height="60" style="border-radius: 50%;"> | **parkhj0206** | 박혁진 | 컴퓨터학부 글솝 | [@parkhj0206](https://github.com/parkhj0206) | 팀장, 학습 데이터 생성, AI위밋 문서 작성 |
 
-논문 초안 및 수정 : 다같이
+### 논문 초안 및 수정 : 다같이, 종합프로젝트 각 1회씩 발표
 ---
 
 ## 📝 회의록 (Meeting Notes)

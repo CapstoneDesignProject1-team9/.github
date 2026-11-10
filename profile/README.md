@@ -441,7 +441,6 @@
 
 ![1030 회의 사진](../images/1030.png)
 </details>
-<<<<<<< HEAD
 
 <details>
 <summary><b>📂 1103 회의록</b></summary>
@@ -493,5 +492,3 @@
 </p>
 
 </details>
-=======
->>>>>>> 0044a8aad5fbd4f35cff24781c41705895cf5d42

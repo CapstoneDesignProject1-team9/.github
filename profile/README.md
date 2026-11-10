@@ -4,10 +4,10 @@
 
 | 프로필 | 닉네임 | 이름 | 학과 | GitHub | 역할 |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://github.com/TakSakong.png" width="60" height="60" style="border-radius: 50%;"> | **TakSakong** | 사공탁 | 컴퓨터학부 | [@TakSakong](https://github.com/TakSakong) | FE/BE, DevOps, MLOps, 모델 평가 및 분석, 회의록 작성, PM |
-| <img src="https://github.com/kimbujang8.png" width="60" height="60" style="border-radius: 50%;"> | **kimbujang8** | 김지호 | 컴퓨터학부 | [@kimbujang8](https://github.com/kimbujang8) | 구매 담당자, 데이터 수집, 데이터 정제 및 임베딩 |
-| <img src="https://github.com/wooki0704.png" width="60" height="60" style="border-radius: 50%;"> | **wooki0704** | 진성욱 | 컴퓨터학부 | [@wooki0704](https://github.com/wooki0704) | 파인튜닝 (LoRA) |
-| <img src="https://github.com/parkhj0206.png" width="60" height="60" style="border-radius: 50%;"> | **parkhj0206** | 박혁진 | 컴퓨터학부 | [@parkhj0206](https://github.com/parkhj0206) | 팀장, 학습 데이터 생성 |
+| <img src="https://github.com/TakSakong.png" width="60" height="60" style="border-radius: 50%;"> | **TakSakong** | 사공탁 | 컴퓨터학부 | [@TakSakong](https://github.com/TakSakong) | FE/BE, DevOps, 모델 평가 및 분석, 회의록 작성, PM|
+| <img src="https://github.com/kimbujang8.png" width="60" height="60" style="border-radius: 50%;"> | **kimbujang8** | 김지호 | 컴퓨터학부 | [@kimbujang8](https://github.com/kimbujang8) | 구매 담당자, 데이터 수집, 정제, 임베딩 |
+| <img src="https://github.com/wooki0704.png" width="60" height="60" style="border-radius: 50%;"> | **wooki0704** | 진성욱 | 컴퓨터학부 | [@wooki0704](https://github.com/wooki0704) | 파인튜닝 (LoRA), AI위밋 발표, 학회 포스터 발표 |
+| <img src="https://github.com/parkhj0206.png" width="60" height="60" style="border-radius: 50%;"> | **parkhj0206** | 박혁진 | 컴퓨터학부 | [@parkhj0206](https://github.com/parkhj0206) | 팀장, 학습 데이터 생성, AI위밋 문서 작성 |
 
 ---
 
@@ -490,5 +490,53 @@
 <p align="center">
   <img src="../images/1103.jpeg" width="500" style="border-radius: 8px;" title="1103 회의 사진">
 </p>
+
+</details>
+
+<details>
+<summary><b>📂 1110 회의록</b></summary>
+
+<br>
+
+### 📌 학회/발표/논문 역할 분담, 프로젝트 완성도(90%) 점검 및 Git 브랜치/협업 규칙 변경
+* **일시:** 2026년 11월 10일 (화)
+* **참석자:** 혁진(팀장), 탁, 성욱, 지호 (전원 참석)
+* **안건:** 학회 포스터 발표 및 AI 위밋 발표 준비, 논문 최종 수정/제출 역할 분담, AI 위밋 문서 고도화 및 실험 파이프라인 README 작성, 현재 기능 구현(90%) 및 EC2 배포 준비 상태 점검, 추가 기능 개발 및 Git 브랜치/코드 리뷰 전략 수립
+
+---
+
+### 1. 주요 안건 및 논의 내용
+
+#### 가. 학회/발표 및 논문 제출 역할 분담
+* **학회 포스터 & AI 위밋 발표:** **진성욱** 담당 (발표 자료 준비 및 시연 진행)
+* **논문 수정 및 최종 제출:** **박혁진, 사공탁** 담당
+* **논문 수정 보완 파일 작성:** **김지호** 담당 (필요한 데이터 및 보조 자료 작성)
+* **AI 위밋 문서 고도화 & README 작성:** **박혁진** 담당 (실험 파이프라인 상세 설명 포함)
+
+#### 나. 서비스 개발 현황 및 인프라 점검
+* **진행률:** 전체 기능 구현 **90% 완료**
+* **CI/CD 파이프라인:** Frontend, Backend, Infra, AI 각 레포지토리의 `main` 브랜치가 CI/CD 파이프라인 규칙에 맞게 정상 동작 중
+* **AWS EC2 배포 준비:** 현재 EC2 인스턴스는 비용 절감을 위해 중지 상태이며, 인스턴스 실행 후 환경변수만 세팅하면 즉시 실제 서비스 배포가 가능한 상태임을 확인
+
+#### 다. 추가 기능 개발 및 Git 협업 전략 변경
+* **기능 개발 방식 전환:** 필수 기능 구현 완료에 따라, 추가 기능은 팀원이 직접 안건을 내고 자율적으로 개발하는 방식으로 변경
+* **브랜치 격리 및 코드 리뷰 의무화:**
+  * 메인 서비스의 안정성을 위해 모든 추가 개발은 **`develop` 브랜치**로 격리 진행
+  * 에러 방지를 위해 **모든 팀원의 코드 리뷰(Approve)**를 거친 후 최종적으로 `main` 브랜치에 머지(Merge)하는 규칙으로 최종 결정
+
+---
+
+### 2. 향후 일정 및 과제 (To-Do List)
+
+- [ ] **AI 위밋 문서 고도화 및 실험 파이프라인 README 작성 (혁진):** 실험 프로세스 문서화
+- [ ] **논문 수정 필요한 파일 작성 및 제출 준비 (지호, 혁진, 탁):** 보완 파일 작성 및 논문 최종 제출
+- [ ] **학회 포스터 발표 및 AI 위밋 발표 준비 (성욱):** 발표 자료 정리 및 시연 시나리오 작성
+- [ ] **AWS EC2 환경변수 점검 및 최종 라이브 배포 테스트 (탁):** 인스턴스 가동 후 배포 점검
+- [ ] **추가 기능 발제 및 `develop` 브랜치 작업 (전원):** 안건 제출 및 PR 생성을 통한 코드 리뷰 진행
+
+---
+
+### 3. 기타 사항
+* `main` 브랜치의 일관성 유지를 위해 사전 리뷰 없는 커밋/머지 엄격 금지
 
 </details>

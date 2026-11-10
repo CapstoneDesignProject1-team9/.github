@@ -4,8 +4,8 @@
 
 | 프로필 | 닉네임 | 이름 | 학과 | GitHub | 역할 |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| <img src="https://github.com/TakSakong.png" width="60" height="60" style="border-radius: 50%;"> | **TakSakong** | 사공탁 | 컴퓨터학부 | [@TakSakong](https://github.com/TakSakong) | FE/BE, DevOps, 모델 평가 및 분석 |
-| <img src="https://github.com/kimbujang8.png" width="60" height="60" style="border-radius: 50%;"> | **kimbujang8** | 김지호 | 컴퓨터학부 | [@kimbujang8](https://github.com/kimbujang8) | 구매 담당자, 데이터 수집 및 임베딩, 정제 |
+| <img src="https://github.com/TakSakong.png" width="60" height="60" style="border-radius: 50%;"> | **TakSakong** | 사공탁 | 컴퓨터학부 | [@TakSakong](https://github.com/TakSakong) | FE/BE, DevOps, MLOps, 모델 평가 및 분석, 회의록 작성, PM |
+| <img src="https://github.com/kimbujang8.png" width="60" height="60" style="border-radius: 50%;"> | **kimbujang8** | 김지호 | 컴퓨터학부 | [@kimbujang8](https://github.com/kimbujang8) | 구매 담당자, 데이터 수집, 데이터 정제 및 임베딩 |
 | <img src="https://github.com/wooki0704.png" width="60" height="60" style="border-radius: 50%;"> | **wooki0704** | 진성욱 | 컴퓨터학부 | [@wooki0704](https://github.com/wooki0704) | 파인튜닝 (LoRA) |
 | <img src="https://github.com/parkhj0206.png" width="60" height="60" style="border-radius: 50%;"> | **parkhj0206** | 박혁진 | 컴퓨터학부 | [@parkhj0206](https://github.com/parkhj0206) | 팀장, 학습 데이터 생성 |
 
@@ -441,6 +441,7 @@
 
 ![1030 회의 사진](../images/1030.png)
 </details>
+<<<<<<< HEAD
 
 <details>
 <summary><b>📂 1103 회의록</b></summary>
@@ -492,3 +493,5 @@
 </p>
 
 </details>
+=======
+>>>>>>> 0044a8aad5fbd4f35cff24781c41705895cf5d42

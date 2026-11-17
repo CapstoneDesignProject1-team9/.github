@@ -9,22 +9,7 @@
 | <img src="https://github.com/wooki0704.png" width="60" height="60" style="border-radius: 50%;"> | **wooki0704** | 진성욱 | 컴퓨터학부 심컴 | [@wooki0704](https://github.com/wooki0704) | 파인튜닝 (LoRA), AI위밋 발표, 학회 포스터 발표 |
 | <img src="https://github.com/parkhj0206.png" width="60" height="60" style="border-radius: 50%;"> | **parkhj0206** | 박혁진 | 컴퓨터학부 글솝 | [@parkhj0206](https://github.com/parkhj0206) | 팀장, 학습 데이터 생성, AI위밋 문서 작성 |
 
-<<<<<<< HEAD
-### 🤝 Contributors
-
-레포지토리별 기여자입니다. 이미지를 누르면 커밋 수 등 상세 기여 내역으로 이동합니다.
-
-| 레포지토리 | 설명 | 기여자 |
-| :--- | :--- | :--- |
-| [four-leaf-AI](https://github.com/CapstoneDesignProject1-team9/four-leaf-AI) | RAG · LoRA 서빙, 평가, 학습 | <a href="https://github.com/CapstoneDesignProject1-team9/four-leaf-AI/graphs/contributors"><img src="https://contrib.rocks/image?repo=CapstoneDesignProject1-team9/four-leaf-AI" height="48" alt="four-leaf-AI 기여자"></a> |
-| [four-leaf-backend](https://github.com/CapstoneDesignProject1-team9/four-leaf-backend) | Spring Boot API | <a href="https://github.com/CapstoneDesignProject1-team9/four-leaf-backend/graphs/contributors"><img src="https://contrib.rocks/image?repo=CapstoneDesignProject1-team9/four-leaf-backend" height="48" alt="four-leaf-backend 기여자"></a> |
-| [four-leaf-frontend](https://github.com/CapstoneDesignProject1-team9/four-leaf-frontend) | React 웹 | <a href="https://github.com/CapstoneDesignProject1-team9/four-leaf-frontend/graphs/contributors"><img src="https://contrib.rocks/image?repo=CapstoneDesignProject1-team9/four-leaf-frontend" height="48" alt="four-leaf-frontend 기여자"></a> |
-| [four-leaf-infra](https://github.com/CapstoneDesignProject1-team9/four-leaf-infra) | Docker Compose, 배포 워크플로 | <a href="https://github.com/CapstoneDesignProject1-team9/four-leaf-infra/graphs/contributors"><img src="https://contrib.rocks/image?repo=CapstoneDesignProject1-team9/four-leaf-infra" height="48" alt="four-leaf-infra 기여자"></a> |
-
-=======
 ### 논문 초안 및 수정 : 다같이, 종합프로젝트 각 1회씩 발표
->>>>>>> 165bc66489305872bdeb90e867f430b5edfdaa36
----
 
 ## 📝 회의록 (Meeting Notes)
 
